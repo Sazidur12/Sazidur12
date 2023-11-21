@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sazidur Rahman</h1>
 <h3 align="center">I'm aspiring to be a software engineer.</h3>
-
-- 🌱 I’m currently learning **JavaScript**
-
-- 💬 Ask me about **C**
-
-- 📫 How to reach me **official.sazidur@gmail.com**
+<img align="right" alt="coding" width="395" src=https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif
+  
+  🌱 I’m currently learning **JavaScript**
+  
+  💬 Ask me about **C**
+  
+  📫 How to reach me **official.sazidur@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/sazidur_rah12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sazidur_rah12" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sazidur12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sazidur12/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/sazidur_rah12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sazidur_rah12/" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discordapp.com/users/1151899199349215282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/1151899199349215282" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
