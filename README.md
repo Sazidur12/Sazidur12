@@ -3,15 +3,15 @@
 
 - 🌱 I’m currently learning **Web Development and React**
 
-- 👨‍💻 All of my projects are available at [To Be Added](To Be Added)
+- 👨‍💻 All of my projects are available at [To Be Added]
 
-- 📝 I regularly write articles on [To Be Added](To Be Added)
+- 📝 I regularly write articles on [To Be Added]
 
 - 💬 Ask me about **C**
 
 - 📫 How to reach me **official.sazidur@gmail.com**
 
-- 📄 Know about my experiences [To Be Added](To Be Added)
+- 📄 Know about my experiences [To Be Added]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
